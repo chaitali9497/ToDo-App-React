@@ -3,7 +3,7 @@
 A simple and interactive **ToDo List application** built with **React** and powered by **Vite**.  
 This app allows users to add, complete, and delete tasks — a perfect starter project for learning React basics and component state management.
 
- **Live Demo:** (https://to-do-app-react-virid.vercel.app/)
+ **Live Demo:** *(https://to-do-app-react-virid.vercel.app/)*  
  **Built With:** React, Vite, JavaScript, CSS
 
 ---
